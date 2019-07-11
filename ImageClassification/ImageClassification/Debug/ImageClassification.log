@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  CImgDlg.cpp
+  ImageClassification.cpp
+  ImageClassificationDlg.cpp
+C:\Git\ImageClassification\ImageClassification\ImageClassification\ImageClassificationDlg.cpp(197,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+C:\Git\ImageClassification\ImageClassification\ImageClassification\ImageClassificationDlg.cpp(230,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  ImageClassification.vcxproj -> C:\Git\ImageClassification\ImageClassification\Debug\ImageClassification.exe
